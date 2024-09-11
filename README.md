@@ -10,6 +10,8 @@ This project aims to classify ECG signals using a Convolutional Neural Network (
 - [Results](#results)
 - [References](#references)
 
+Get the data from this link: https://physionet.org/content/chfdb/1.0.0/ and put into content. 
+
 ## Installation
 
 To run this project, you will need to install the following dependencies:
